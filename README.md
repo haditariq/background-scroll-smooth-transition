@@ -1,2 +1,2 @@
-##React app: npm start
-#Background color smooth transitions with scroll.
+React app: npm start <br/>
+ -- Background color smooth transitions with scroll.
